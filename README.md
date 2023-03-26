@@ -1,4 +1,4 @@
-
+![logo](https://github.com/dpp17/dpp17/blob/main/Durga%20prasad%20pradhan.png)
 <h1 align="center">Hi 👋, I'm DURGA PRASAD PRADHAN</h1>
 <h3 align="center">A passionate, logical and results-driven developer from India, dedicated to building and optimizing user-focused websites and applications. Judicious and creative when crafting effective websites, apps and platforms to propel competitive advantage and revenue growth. Technically proficient and analytical problem solver with calm and focused demeanor.</h3>
 <img align="right" alt="coding" width="400px" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
